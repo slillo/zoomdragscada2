@@ -1,0 +1,22 @@
+{
+  "name": "zoomable-draggable-mini-scada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "konva": "3.2.5",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-konva": "16.8.6",
+    "use-image": "1.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
